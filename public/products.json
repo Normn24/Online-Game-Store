@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Cyberpunk 2077",
+    "price": 39,
+    "image": "../../../img/cyberpunk.png",
+    "article": 207721,
+    "genre": "RPG"
+  },
+  {
+    "name": "Metro Exodus",
+    "price": 30,
+    "image": "../../../img/metroexodus.png",
+    "article": 240222,
+    "genre": "A first-person shooter,"
+  },
+  {
+    "name": "Metro 2033",
+    "price": 35,
+    "image": "../../../img/metro2033.png",
+    "article": 203311,
+    "genre": "A first-person shooter,"
+  }, 
+  {
+    "name": "Elden Ring",
+    "price": 40,
+    "image": "../../../img/eldenring.png",
+    "article": 250222,
+    "genre": "Soulslike"
+  }, 
+  {
+    "name": "Dark Souls 3",
+    "price": 25,
+    "image": "../../../img/darksouls3.png",
+    "article": 201642,
+    "genre": "Soulslike"
+  },
+  {
+    "name": "Bloodborne",
+    "price": 34.99,
+    "image": "../../../img/bloodborne.png",
+    "article": 142398,
+    "genre": "Soulslike"
+  }, 
+  {
+    "name": "Ghost of Tsushima",
+    "price": 60,
+    "image": "../../../img/ghostoftsushima.png",
+    "article": 897632,
+    "genre": "RPG, Adventure game"
+  },
+  {
+    "name": "God of War",
+    "price": 54.49,
+    "image": "../../../img/godofwar.png",
+    "article": 215609,
+    "genre": "Action, RPG"
+  }, 
+  {
+    "name": "God of War Ragnarok",
+    "price": 60.99,
+    "image": "../../../img/godofwarragnarok.png",
+    "article": 345212,
+    "genre": "RPG, Action"
+  },
+  {
+    "name": "Helldivers 2",
+    "price": 40,
+    "image": "../../../img/helldivers2.png",
+    "article": 243133,
+    "genre": "Shooter"
+  }
+]
