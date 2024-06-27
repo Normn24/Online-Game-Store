@@ -1,6 +1,3 @@
-# Homework 33
-
-
 
 ## Getting started
 
